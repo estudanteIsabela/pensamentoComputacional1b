@@ -1,0 +1,33 @@
+body{
+                background: #B0E0E6;
+
+            }
+			#inicio { 
+				background: #B0E0E6;
+			}
+			h1{
+				font-size: 40px;
+				text-align: left;
+				color: #DB7093
+		    	}
+            h2{
+                font-size: 30px;
+                text-align: center; 
+                color: #B03060
+
+            }
+			p{
+				font-size: 23px;
+				text-align: left;
+				color: #B03060;
+                padding: 10px;
+		    	}
+			#sucos{
+			    width: 50%;
+			    margin-left: 25%;
+                margin-bottom: 10px;
+			}
+			#cardapio{
+                		background: #D8BFD8; 
+                        border: 7px solid #DB7093;
+           		}
